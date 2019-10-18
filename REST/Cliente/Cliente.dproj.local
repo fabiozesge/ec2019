@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/17 14:52:53.000.593,C:\EC2019\DCOM\Cliente\uFrmCliente.dfm=C:\CursoDataSnap\DCOM\Client\uFrmMain.dfm</Transaction>
+    <Transaction>2019/10/17 14:52:53.000.593,C:\EC2019\DCOM\Cliente\uFrmCliente.pas=C:\CursoDataSnap\DCOM\Client\uFrmMain.pas</Transaction>
+    <Transaction>2019/10/17 14:53:14.000.188,C:\EC2019\DCOM\Cliente\Cliente.dproj=C:\CursoDataSnap\DCOM\Client\PrjClient.dproj</Transaction>
+    <Transaction>2019/10/17 14:59:15.000.128,C:\EC2019\DCOM\Cliente\uDM.pas=C:\CursoDataSnap\DCOM\Client\uDM.pas</Transaction>
+    <Transaction>2019/10/17 14:59:15.000.128,C:\EC2019\DCOM\Cliente\uDM.dfm=C:\CursoDataSnap\DCOM\Client\uDM.dfm</Transaction>
+    <Transaction>2019/10/18 11:41:53.000.906,=C:\EC2019\REST\Cliente\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2019/10/18 11:41:55.000.183,=C:\EC2019\REST\Cliente\ClientModuleUnit1.pas</Transaction>
+    <Transaction>2019/10/18 11:45:40.000.938,C:\EC2019\REST\Cliente\ClientModuleUnit1.pas=C:\EC2019\REST\Cliente\uCM.pas</Transaction>
+    <Transaction>2019/10/18 11:45:40.000.938,C:\EC2019\REST\Cliente\ClientModuleUnit1.dfm=C:\EC2019\REST\Cliente\uCM.dfm</Transaction>
+    <Transaction>2019/10/18 11:45:45.000.769,C:\EC2019\REST\Cliente\ClientClassesUnit1.pas=C:\EC2019\REST\Cliente\uCC.pas</Transaction>
+    <Transaction>2019/10/18 12:03:44.128,=C:\EC2019\REST\Cliente\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2019/10/18 12:03:49.011,=C:\EC2019\REST\Cliente\ClientModuleUnit1.pas</Transaction>
+    <Transaction>2019/10/18 12:04:20.576,C:\EC2019\REST\Cliente\uCM.pas=C:\EC2019\REST\Cliente\ClientModuleUnit1.pas</Transaction>
+    <Transaction>2019/10/18 12:04:20.576,C:\EC2019\REST\Cliente\uCM.dfm=C:\EC2019\REST\Cliente\ClientModuleUnit1.dfm</Transaction>
+    <Transaction>2019/10/18 12:04:27.301,C:\EC2019\REST\Cliente\uCC.pas=C:\EC2019\REST\Cliente\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2019/10/18 12:06:09.122,C:\EC2019\REST\Cliente\uDM.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

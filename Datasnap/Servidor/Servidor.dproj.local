@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/17 17:10:50.000.655,=C:\Users\t_fabio.borges\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/17 17:10:52.000.497,=C:\Users\t_fabio.borges\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2019/10/17 17:10:53.000.804,=C:\Users\t_fabio.borges\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2019/10/17 17:22:51.430,=C:\Users\t_fabio.borges\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/17 17:22:52.067,=C:\Users\t_fabio.borges\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2019/10/17 17:23:04.470,=C:\Users\t_fabio.borges\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2019/10/17 17:27:33.210,C:\EC2019\Datasnap\Servidor\uFrmServidor.pas=C:\Users\t_fabio.borges\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/17 17:27:33.210,C:\EC2019\Datasnap\Servidor\uFrmServidor.dfm=C:\Users\t_fabio.borges\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/10/17 17:27:48.449,C:\EC2019\Datasnap\Servidor\uSM.dfm=C:\Users\t_fabio.borges\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.dfm</Transaction>
+    <Transaction>2019/10/17 17:27:48.449,C:\EC2019\Datasnap\Servidor\uSM.pas=C:\Users\t_fabio.borges\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2019/10/17 17:28:28.643,C:\EC2019\Datasnap\Servidor\uSC.dfm=C:\EC2019\Datasnap\Servidor\uSM.dfm</Transaction>
+    <Transaction>2019/10/17 17:28:28.643,C:\EC2019\Datasnap\Servidor\uSC.pas=C:\EC2019\Datasnap\Servidor\uSM.pas</Transaction>
+    <Transaction>2019/10/17 17:28:41.375,C:\EC2019\Datasnap\Servidor\uSM.pas=C:\Users\t_fabio.borges\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2019/10/17 17:28:41.375,C:\EC2019\Datasnap\Servidor\uSM.dfm=C:\Users\t_fabio.borges\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.dfm</Transaction>
+    <Transaction>2019/10/17 17:29:00.316,C:\EC2019\Datasnap\Servidor\Servidor.dproj=C:\Users\t_fabio.borges\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/10/17 19:26:12.692,C:\EC2019\Datasnap\Servidor\uSM.pas=</Transaction>
+    <Transaction>2019/10/17 19:26:29.522,=C:\EC2019\Datasnap\Servidor\uRDM.pas</Transaction>
+  </Transactions>
+</BorlandProject>

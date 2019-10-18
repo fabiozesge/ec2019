@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/18 09:16:07.000.029,=C:\EC2019\REST\Servidor\FormUnit1.pas</Transaction>
+    <Transaction>2019/10/18 09:16:08.000.287,=C:\EC2019\REST\Servidor\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2019/10/18 09:16:09.000.018,=C:\EC2019\REST\Servidor\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/10/18 09:16:09.000.765,=C:\EC2019\REST\Servidor\js\ServerFunctionExecutor.js</Transaction>
+    <Transaction>2019/10/18 09:16:09.000.979,=C:\EC2019\REST\Servidor\js\CallbackFramework-min.js</Transaction>
+    <Transaction>2019/10/18 09:16:09.000.846,=C:\EC2019\REST\Servidor\js\ServerFunctions.js</Transaction>
+    <Transaction>2019/10/18 09:16:09.000.788,=C:\EC2019\REST\Servidor\js\json2.js</Transaction>
+    <Transaction>2019/10/18 09:16:09.000.876,=C:\EC2019\REST\Servidor\js\base64-min.js</Transaction>
+    <Transaction>2019/10/18 09:16:09.000.906,=C:\EC2019\REST\Servidor\js\json2-min.js</Transaction>
+    <Transaction>2019/10/18 09:16:09.000.746,=C:\EC2019\REST\Servidor\js\base64.js</Transaction>
+    <Transaction>2019/10/18 09:16:09.000.814,=C:\EC2019\REST\Servidor\js\CallbackFramework.js</Transaction>
+    <Transaction>2019/10/18 09:16:09.000.945,=C:\EC2019\REST\Servidor\js\ServerFunctionExecutor-min.js</Transaction>
+    <Transaction>2019/10/18 09:16:10.000.121,=C:\EC2019\REST\Servidor\css\main.css</Transaction>
+    <Transaction>2019/10/18 09:16:10.000.453,=C:\EC2019\REST\Servidor\images\expand.png</Transaction>
+    <Transaction>2019/10/18 09:16:10.000.016,=C:\EC2019\REST\Servidor\js\connection.js</Transaction>
+    <Transaction>2019/10/18 09:16:10.000.172,=C:\EC2019\REST\Servidor\css\ServerFunctionInvoker.css</Transaction>
+    <Transaction>2019/10/18 09:16:10.000.228,=C:\EC2019\REST\Servidor\templates\ReverseString.html</Transaction>
+    <Transaction>2019/10/18 09:16:10.000.375,=C:\EC2019\REST\Servidor\images\collapse.png</Transaction>
+    <Transaction>2019/10/18 09:16:10.000.285,=C:\EC2019\REST\Servidor\templates\ServerFunctionInvoker.html</Transaction>
+    <Transaction>2019/10/18 09:16:10.000.067,=C:\EC2019\REST\Servidor\js\ServerFunctionInvoker.js</Transaction>
+    <Transaction>2019/10/18 09:16:37.000.406,C:\EC2019\REST\Servidor\FormUnit1.pas=C:\EC2019\REST\Servidor\uFrmServidor.pas</Transaction>
+    <Transaction>2019/10/18 09:16:37.000.406,C:\EC2019\REST\Servidor\FormUnit1.dfm=C:\EC2019\REST\Servidor\uFrmServidor.dfm</Transaction>
+    <Transaction>2019/10/18 09:16:55.000.172,C:\EC2019\REST\Servidor\WebModuleUnit1.pas=C:\EC2019\REST\Servidor\uWM.pas</Transaction>
+    <Transaction>2019/10/18 09:16:55.000.172,C:\EC2019\REST\Servidor\WebModuleUnit1.dfm=C:\EC2019\REST\Servidor\uWM.dfm</Transaction>
+    <Transaction>2019/10/18 09:16:59.000.882,C:\EC2019\REST\Servidor\ServerMethodsUnit1.dfm=C:\EC2019\REST\Servidor\uSM.dfm</Transaction>
+    <Transaction>2019/10/18 09:16:59.000.882,C:\EC2019\REST\Servidor\ServerMethodsUnit1.pas=C:\EC2019\REST\Servidor\uSM.pas</Transaction>
+    <Transaction>2019/10/18 09:35:34.000.017,=C:\EC2019\REST\Servidor\uRDM.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/17 14:54:54.000.157,C:\CursoDataSnap\DCOM\Server\PrjDCOMServer.dproj=C:\EC2019\DCOM\Servidor\Servidor.dproj</Transaction>
+    <Transaction>2019/10/17 14:55:20.000.685,C:\CursoDataSnap\DCOM\Server\uFrmMain.pas=C:\EC2019\DCOM\Servidor\uFrmServidor.pas</Transaction>
+    <Transaction>2019/10/17 14:55:20.000.685,C:\CursoDataSnap\DCOM\Server\uFrmMain.dfm=C:\EC2019\DCOM\Servidor\uFrmServidor.dfm</Transaction>
+    <Transaction>2019/10/17 14:58:26.000.060,C:\CursoDataSnap\DCOM\Server\PrjDCOMServer_TLB.pas=C:\EC2019\DCOM\Servidor\uServidor_TLB.pas</Transaction>
+    <Transaction>2019/10/17 15:19:19.000.079,C:\EC2019\DCOM\Servidor\PrjDCOMServer_TLB.pas=C:\EC2019\DCOM\Servidor\uServidor_TLB.pas</Transaction>
+  </Transactions>
+</BorlandProject>
